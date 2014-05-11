@@ -1,4 +1,4 @@
-comingsoon - using the gojistatic webserver.
+comingsoon
 ==========
 
-SumoGB is coming soon..
+Using the gojistatic webserver.
